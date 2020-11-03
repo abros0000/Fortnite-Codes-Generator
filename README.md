@@ -6,12 +6,6 @@
   <span>An automatic Bot that generates and checks Fortnite gift codes.</span>
   <br>
   <a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/python-%3E=_3.6-green.svg"></a>
-</p>
-
-<p align="center">
-  <a href="#installation"> Installation </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
 
 ## Installation
