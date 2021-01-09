@@ -20,3 +20,8 @@ $ cd Fortnite-Codes-Generator
 # install the requirements
 $ python3 -m pip install -r requirements.txt
 ```
+## Legal Advice
+THIS REPOSITORY AND EVERY SCRIPT INCLUDED IN IT IS FOR EDUCATIONAL 
+AND TESTING PURPOSES ONLY. THE OWNER OR ANY CONTRIBUTOR IS NOT RESPONSIBLE
+FOR YOUR ACTIONS.
+
